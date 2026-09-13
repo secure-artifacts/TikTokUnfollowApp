@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TikTok 自动取关助手</string>
+    <string name="accessibility_service_label">TikTok 自动取关无障碍服务</string>
+    <string name="accessibility_service_desc">用于识别 TikTok/抖音页面上的关注节点并自动执行翻页与批量取关点击操作。</string>
+    <string name="btn_grant_accessibility">开启无障碍服务</string>
+    <string name="btn_grant_overlay">开启悬浮窗权限</string>
+    <string name="btn_start_service">启动悬浮控制面板</string>
+    <string name="mode_bottom_first">模式一：翻到最底部后再批量取关</string>
+    <string name="mode_skip_count">模式二：跳过指定数量/翻N页后取关</string>
+    <string name="label_skip_count">跳过/翻页数量 (N):</string>
+    <string name="label_interval">操作延时间隔 (毫秒):</string>
+</resources>
